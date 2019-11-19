@@ -20,7 +20,9 @@ The terminology involved with the gears is definitely something that will take a
 
 ### Image
 
-<img src= "media/" width="300">
+<img src= "media/Gear1.png" width="280">
+<img src= "media/Gear2.png" width="355">
+<img src= "media/GearEquations.png" width="400">
 
 ## Gearbox
 
@@ -34,36 +36,38 @@ The hardest part was definitely the plate on which the gear assemblies would be 
 
 ### Image
 
-<img src= "media/" width="300">
+<img src= "media/Gearbox.png" width="400">
 
 ## Motion Analysis
 
-
-
 ### Objective
 
-
+This assignment required us to make 6 seperate parts to form an assembly which we would then use to perform a motion study using Solidworks Simulation. The Solidwork Simulation program allows us to apply certain forces (gravity) to the assembly and see how the assembly would respond given the movement of a motor (servo). This makes testing assemblies much easier.
 
 ### Lesson(s) Learned
 
-
+The contruction of the assembly was fairly easy, apart from learning how to use the shell feature and offset entities, it was a review of the solidworks mechanics. The motion study aspect was a bit more difficult as it had us using a new program, the instructions were easy to follow, however, I initially messed up the direction that the servo would rotate so my motion study would turn in a negative direction (towards the stand). The only advice I would give is to follow the directions closely so as not to miss anything. 
 
 ### Image
 
-<img src= "media/" width="300">
+<img src= "media/MotionStudy.png" width="400">
 
 ## Stress Analysis
 
-
-
 ### Objective
 
-
+This assignment had us follow a sketch to create a design that we would test in the SimulationXpress Analysis Wizard program. This program allows us to fix certain points of the piece and apply forces to others to see how strong the piece is. Using this data, we attempted to create a piece that was both strong, in terms of the Factor of Safety (FOS), and light. 
 
 ### Lesson(s) Learned
 
-
+The construction of the piece required several relations, notably making lines tangent to the circles and making lines parallel to the outer edge to fully constrain them. In messing around with the piece to increase the FOS, I initially made the fillet thicker, which worked to some extent, but the best option was to make a wall in the center of the piece that was very thin.
 
 ### Image
 
-<img src= "media/" width="300">
+<img src= "media/Stress_Test_Original.png" width="300"> Original
+
+<img src= "media/Stress_Test_1.png" width="280"> 
+<img src= "media/Stress_Test_2.png" width="300"> 
+<img src= "media/Stress_Test_3.png" width="300">
+<img src= "media/Stress_Test_4.png" width="300">
+ 
