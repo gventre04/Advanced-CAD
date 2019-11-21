@@ -50,7 +50,7 @@ The contruction of the assembly was fairly easy, apart from learning how to use 
 
 ### Image
 
-<img src="Media/MotionStudy.png" width="400">
+<img src="Media/MotionStudy.PNG" width="400">
 
 ## Stress Analysis
 
