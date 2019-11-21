@@ -20,9 +20,9 @@ The terminology involved with the gears is definitely something that will take a
 
 ### Image
 
-<img src= "media/Gear1.png" width="280">
-<img src= "media/Gear2.png" width="355">
-<img src= "media/GearEquations.png" width="400">
+<img src="media/Gear1.png" width="280">
+<img src="media/Gear2.png" width="355">
+<img src="media/GearEquations.png" width="400">
 
 ## Gearbox
 
@@ -36,7 +36,7 @@ The hardest part was definitely the plate on which the gear assemblies would be 
 
 ### Image
 
-<img src= "media/Gearbox.png" width="400">
+<img src="media/Gearbox.png" width="400">
 
 ## Motion Analysis
 
@@ -50,7 +50,7 @@ The contruction of the assembly was fairly easy, apart from learning how to use 
 
 ### Image
 
-<img src= "media/MotionStudy.png" width="400">
+<img src="media/MotionStudy.png" width="400">
 
 ## Stress Analysis
 
@@ -66,8 +66,8 @@ The construction of the piece required several relations, notably making lines t
 
 <img src= "media/Stress_Test_Original.png" width="300"> Original
 
-<img src= "media/Stress_Test_1.png" width="280"> 
-<img src= "media/Stress_Test_2.png" width="300"> 
-<img src= "media/Stress_Test_3.png" width="300">
-<img src= "media/Stress_Test_4.png" width="300">
+<img src="media/Stress_Test_1.png" width="280"> 
+<img src="media/Stress_Test_2.png" width="300"> 
+<img src="media/Stress_Test_3.png" width="300">
+<img src="media/Stress_Test_4.png" width="300">
  
